@@ -1,0 +1,110 @@
+[
+    {
+        "id": "1",
+        "companyLogo": "https://i.ibb.co/vjX0865/adidas.png",
+        "jobTitle": "Software Engineer",
+        "companyName": "Tech Innovators Inc.",
+        "jobType": [
+            "Remote",
+            "Full-time"
+        ],
+        "location": "Anywhere",
+        "salary": "$80,000 - $100,000 per year",
+        "jobDescription": "We are looking for a skilled software engineer to join our dynamic team. In this role, you will be responsible for developing, testing, and maintaining high-quality software solutions. You will collaborate with cross-functional teams to design and implement cutting-edge applications, and you will have the opportunity to work on exciting and challenging projects that push the boundaries of technology.",
+        "jobResponsibility": "Responsibilities include: Collaborating with product managers, designers, and other engineers to develop software solutions. Writing clean, maintainable, and efficient code. Debugging and resolving software defects. Participating in code and design reviews. Keeping up-to-date with industry best practices and technologies. Contributing to a positive and innovative team culture.",
+        "educationalRequirements": "Bachelor's degree in Computer Science or related field",
+        "experiences": "2+ years of software development experience",
+        "phone": "123-456-7890",
+        "email": "hr@techinnovators.com"
+    },
+    {
+        "id": "2",
+        "companyLogo": "https://i.ibb.co/rbySzJg/apple.png",
+        "jobTitle": "Marketing Manager",
+        "companyName": "Global Marketing Solutions",
+        "jobType": [
+            "Onsite",
+            "Full-time"
+        ],
+        "location": "New York, NY",
+        "salary": "$60,000 - $80,000 per year",
+        "jobDescription": "We are seeking a marketing manager to lead our marketing efforts. As a Marketing Manager, you will play a key role in developing and executing marketing strategies, driving brand awareness, and managing a talented team of marketing professionals. You will have the opportunity to work on exciting campaigns and projects in a fast-paced and dynamic environment.",
+        "jobResponsibility": "Responsibilities include: Developing and executing marketing strategies to meet business objectives. Managing and mentoring a team of marketing professionals. Analyzing market trends and competitors to identify opportunities and threats. Creating and overseeing marketing campaigns and initiatives. Collaborating with cross-functional teams to ensure marketing alignment with overall business goals. Tracking and analyzing marketing performance metrics.",
+        "educationalRequirements": "Bachelor's degree in Marketing or related field",
+        "experiences": "5+ years of marketing experience",
+        "phone": "555-123-4567",
+        "email": "info@globalmarketingsolutions.com"
+    },
+    {
+        "id": "3",
+        "companyLogo": "https://i.ibb.co/Wsbd12K/bmw.png",
+        "jobTitle": "Graphic Designer",
+        "companyName": "Creative Design Studio",
+        "jobType": [
+            "Remote",
+            "Part-time"
+        ],
+        "location": "Anywhere",
+        "salary": "$30 - $40 per hour",
+        "jobDescription": "We are looking for a talented graphic designer to work on creative projects. As a Graphic Designer, you will be responsible for creating visually stunning designs and collaborating with clients to bring their visions to life. This is a part-time, remote position that offers flexibility and a chance to showcase your creativity.",
+        "jobResponsibility": "Responsibilities include: Designing and producing visual content for various media platforms. Collaborating with clients to understand their design requirements and objectives. Adhering to project timelines and delivering high-quality design solutions. Staying up-to-date with design trends and software tools. Providing creative input and contributing to a positive team environment.",
+        "educationalRequirements": "Associate's or Bachelor's degree in Graphic Design",
+        "experiences": "2+ years of graphic design experience",
+        "phone": "987-654-3210",
+        "email": "info@creativedesignstudio.com"
+    },
+    {
+        "id": "4",
+        "companyLogo": "https://i.ibb.co/x7GWbcB/fila.png",
+        "jobTitle": "Financial Analyst",
+        "companyName": "FinancePros Ltd.",
+        "jobType": [
+            "Onsite",
+            "Full-time"
+        ],
+        "location": "Chicago, IL",
+        "salary": "$70,000 - $90,000 per year",
+        "jobDescription": "We are seeking a financial analyst to analyze financial data and provide insights. As a Financial Analyst, you will play a crucial role in analyzing financial information, preparing reports, and offering recommendations to support strategic decision-making. You will work in a collaborative environment and have opportunities for career growth.",
+        "jobResponsibility": "Responsibilities include: Analyzing financial data and trends to provide insights and recommendations. Preparing financial reports, forecasts, and budgets. Collaborating with teams to support financial planning and decision-making. Evaluating investment opportunities and assessing risk. Keeping abreast of financial industry developments and regulations. Maintaining financial models and databases.",
+        "educationalRequirements": "Bachelor's degree in Finance or related field",
+        "experiences": "3+ years of financial analysis experience",
+        "phone": "312-555-6789",
+        "email": "careers@financepros.com"
+    },
+    {
+        "id": "5",
+        "companyLogo": "https://i.ibb.co/TLJngBx/honda.png",
+        "jobTitle": "Registered Nurse",
+        "companyName": "Healthcare Solutions Inc.",
+        "jobType": [
+            "Onsite",
+            "Full-time"
+        ],
+        "location": "Los Angeles, CA",
+        "salary": "$60,000 - $80,000 per year",
+        "jobDescription": "We are looking for registered nurses to provide compassionate patient care. As a Registered Nurse, you will be responsible for delivering high-quality healthcare to patients, collaborating with healthcare teams, and promoting patient well-being. This is an onsite position in a dynamic healthcare environment.",
+        "jobResponsibility": "Responsibilities include: Assessing patient needs and developing care plans. Administering medications, treatments, and interventions. Collaborating with physicians and healthcare professionals. Monitoring patient conditions and responding to emergencies. Providing education and support to patients and their families. Maintaining accurate patient records.",
+        "educationalRequirements": "Bachelor's degree in Nursing and RN license",
+        "experiences": "2+ years of nursing experience",
+        "phone": "213-789-4567",
+        "email": "jobs@healthcaresolutions.com"
+    },
+    {
+        "id": "6",
+        "companyLogo": "https://i.ibb.co/VjLmwCP/ig.png",
+        "jobTitle": "Customer Support Representative",
+        "companyName": "ServiceFirst Co.",
+        "jobType": [
+            "Remote",
+            "Part-time"
+        ],
+        "location": "Anywhere",
+        "salary": "$15 - $20 per hour",
+        "jobDescription": "We are seeking customer support representatives to assist our clients. As a Customer Support Representative, you will provide exceptional customer service, resolve inquiries, and support our clients. This part-time, remote position offers flexibility and the opportunity to make a difference.",
+        "jobResponsibility": "Responsibilities include: Responding to customer inquiries via phone, email, and chat. Resolving customer issues and ensuring customer satisfaction. Providing product information and troubleshooting assistance. Escalating complex issues to appropriate teams. Maintaining accurate records of customer interactions. Contributing to a positive team culture and continuous improvement.",
+        "educationalRequirements": "High school diploma or equivalent",
+        "experiences": "1+ year of customer support experience",
+        "phone": "800-123-4567",
+        "email": "hr@servicefirst.com"
+    }
+]
