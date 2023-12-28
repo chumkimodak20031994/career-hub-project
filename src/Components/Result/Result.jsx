@@ -14,7 +14,8 @@ const Result = () => {
           </p>
           <Link
             to='/'
-            className='px-8 py-3 font-semibold rounded bg-yellow-400 ml-60 text-gray-900 border-2 border-violet-500'
+            className='px-8 py-3 font-semibold rounded bg-yellow-400 ml-60 text-gray-900 border-2 border-violet-500
+            '
           >
             Back to homepage
           </Link>
