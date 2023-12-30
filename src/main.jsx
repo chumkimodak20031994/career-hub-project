@@ -14,7 +14,7 @@ import Header from './Header/Header.jsx';
 import Aboutus from './Header/Aboutus/Aboutus.jsx';
 import Viewdetails from './Header/Viewdetails/Viewdetails.jsx';
 import Appliedjobs from './Header/Appliedjobs/Appliedjobs.jsx';
-import AppliedJobs from './Components/utilitig/Loader.js';
+// import AppliedJobs from './Components/utilitig/Loader.js';
 
 const router = createBrowserRouter([
   {

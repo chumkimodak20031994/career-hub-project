@@ -19,10 +19,13 @@ const Featurejob = ({detail}) => {
                             <path strokeLinecap="round" strokeLinejoin="round" d="M15 10.5a3 3 0 11-6 0 3 3 0 016 0z" />
                             <path strokeLinecap="round" strokeLinejoin="round" d="M19.5 10.5c0 7.142-7.5 11.25-7.5 11.25S4.5 17.642 4.5 10.5a7.5 7.5 0 1115 0z" />
                         </svg>
-
-                        {/* <button className='p-2 border-2 border-violet-500 px-2 py-2'>{jobType}</button> */}
                         {
-    jobType.map((job, i) => <button className='border-2 border-violet-500 rounded-md text-violet-500 font-bold px-2 py-1 mr-2 my-2' key={i}>{job}</button>)
+    // jobType.map((job, i) => <button className='border-2 border-violet-500 rounded-md text-violet-500 font-bold px-2 py-1 mr-2 my-2' key={i}>{job}</button>
+    jobType && Array.isArray(jobType) && jobType.map((job, i) => (
+        <button className='border-2 border-violet-500 rounded-md text-violet-500 font-bold px-2 py-1 mr-2 my-2' key={i}>
+           {job}
+        </button>)
+    )
 }
                         </div>
                     </div>
