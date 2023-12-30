@@ -35,11 +35,8 @@ const Appliedjobs = () => {
 savedJob.map((job, i) => <Fulltimejob job={job} key={i}></Fulltimejob>)
 
 }
-
 </div>
-
-
-            </div>
+          </div>
             <div className='ml-80'>
             <Link
         to='/'
