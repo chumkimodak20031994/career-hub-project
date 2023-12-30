@@ -2,7 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 
 const Featurejob = ({detail}) => {
-    const{id,companyLogo,jobTitle,companyName,jobType}=detail;
+    const{id,companyLogo,jobTitle,companyName,jobType,salary,location}=detail;
     return (
     
           <div className='w-4/5 mx-auto md:w-full  '>
@@ -27,8 +27,16 @@ const Featurejob = ({detail}) => {
         </button>)
     )
 }
+    
                         </div>
                     </div>
+                    <div className='flex flex-col p-2'>
+         <p className="flex items-center">
+            <i className="fas fa-map-marker-alt text-gray-500 mr-2"></i>
+            {location}
+         </p>
+         <p>{salary}</p>
+      </div>
                     <div className='mt-5'>
                     <button className=' bg-gradient-to-r  from-blue-500 to-purple-500 text-base text-white px-5 py-2  rounded-md '>
                         <Link to={`/details/${id}`} className='p-2 '>View Details</Link>
