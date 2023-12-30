@@ -4,6 +4,7 @@
 #featured jobs
 #see more button
 #view details button click
-#fulltime job
+#parttume job apply
+#fulltime job apply
 #job details
 #apply this job
