@@ -7,4 +7,4 @@
 #remote job
 #fulltime job
 #job details
-#apply the job
+#apply job
