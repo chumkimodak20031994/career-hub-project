@@ -3,8 +3,7 @@
 #job category list
 #featured jobs
 #see more button
-#view details click
-#remote job
+#view details button click
 #fulltime job
 #job details
 #apply this job
