@@ -28,9 +28,9 @@ const router = createBrowserRouter([
       element:<Header></Header>,
     // loader:()=>fetch('jobdetails.json')
     loader: async () => {
-      const res1 = await fetch('/public/jobdetails.json');
+      const res1 = await fetch('/jobdetails.json');
       const jobdetails = await res1.json();
-       const res2 = await fetch('/public/details.json');
+       const res2 = await fetch('/details.json');
       const details = await res2.json();
        return {jobdetails,details};
     },
@@ -40,7 +40,7 @@ const router = createBrowserRouter([
 path:'/details/:id',
 element:<Viewdetails></Viewdetails>,
 loader: async ({ params }) => {
-const res2 = await fetch('/public/details.json');
+const res2 = await fetch('/details.json');
 const details=await res2.json();
 const Viewdetails=details.find(detail=>detail.id==params.id);
 return Viewdetails;
@@ -51,7 +51,7 @@ return Viewdetails;
     path:'/applynow',
     element:<Appliedjobs></Appliedjobs>,
     loader: async ({ params }) => {
-      const res2 = await fetch('/public/details.json');
+      const res2 = await fetch('/details.json');
       const details=await res2.json();
       return details
     }
@@ -60,7 +60,7 @@ return Viewdetails;
      {
        path:'/About US',
       element:<Aboutus></Aboutus>,
-      loader: () => fetch('/public/assighmentdata.json'),
+      loader: () => fetch('/assighmentdata.json'),
      },
      {
       path:'/Interview',
